@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "kidsonthegrow.com",
+  "Id": "3953c4e9-6b3b-42af-8989-324c75cf5b41"
+}
