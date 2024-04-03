@@ -108,6 +108,7 @@
 				</div>
 
 				<div class="row bumper-sm">
+					<!-- NO PICTURE YET -->
 					<!-- <div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/morgan.jpeg" class="img-responsive" alt="Meet us" />
 					</div> -->
@@ -186,6 +187,7 @@
 				</div>
 
 				<div class="row bumper-sm">
+					<!-- NO PICTURE YET -->
 					<!-- <div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/chloe.jpeg" class="img-responsive" alt="Meet us" />
 					</div> -->
