@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<h1>Meet Us</h1>
-				<h2 class="title"><strong>Our Founders</strong></h2>
+				<h2 class="title"><strong class="bumper-sm">Our Founders</strong></h2>
 				<div class="row bumper-sm">
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/elizabeth.jpeg" class="img-responsive" alt="Meet us" />
@@ -53,21 +53,6 @@
 				<h2 class="title"><strong>Physical Therapists</strong></h2>
 				<div class="row bumper-sm">
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
-						<img src="assets/img-new/emma.jpeg" class="img-responsive" alt="Meet us" />
-					</div>
-					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
-						<h2>Emma Battaglia<span class="atitle"> | PTA/L</span></h2>
-						<p>Emma graduated from Oakton Community College's Physical Therapist Assistant Program in 2019.
-							Before this, she earned her bachelor’s degree in elementary education and economics from
-							Northeastern Illinois University. She enjoys working with children with a broad range of
-							abilities and diagnoses. She has completed continuing education in gait development and
-							analysis, orthotics, torticollis, postural control, toe walking, and motor learning in
-							children with Autism Spectrum Disorder.</p>
-					</div>
-				</div>
-
-				<div class="row bumper-sm">
-					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/suzanne.jpeg" class="img-responsive" alt="Meet us" />
 					</div>
 					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
@@ -80,29 +65,27 @@
 							Intervention Program.</p>
 					</div>
 				</div>
+
+				<div class="row bumper-sm">
+					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
+						<img src="assets/img-new/emma.jpeg" class="img-responsive" alt="Meet us" />
+					</div>
+					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
+						<h2>Emma Battaglia<span class="atitle"> | PTA/L</span></h2>
+						<p>Emma graduated from Oakton Community College's Physical Therapist Assistant Program in 2019.
+							Before this, she earned her bachelor’s degree in elementary education and economics from
+							Northeastern Illinois University. She enjoys working with children with a broad range of
+							abilities and diagnoses. She has completed continuing education in gait development and
+							analysis, orthotics, torticollis, postural control, toe walking, and motor learning in
+							children with Autism Spectrum Disorder.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<h2 class="title"><strong>Occupational Therapists</strong></h2>
-				<div class="row bumper-sm">
-					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
-						<img src="assets/img-new/cara.jpeg" class="img-responsive" alt="Meet us" />
-					</div>
-					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
-						<h2>Cara Winters<span class="atitle"> | COTA/L</span></h2>
-						<p>Cara graduated from the University of Illinois at Chicago in 2020 with her Bachelor’s degree
-							in Rehabilitation Sciences and earned her COTA license from Fox College in 2022. Cara has a
-							passion for helping children learn through play-based activities to achieve their goals.
-							Cara has experience working in a school for children with Autism, working in home and clinic
-							settings. Cara strives to provide client-centered therapy through play, sensory exploration,
-							handwriting, fine motor skills, and gross motor skills. Cara is currently attending school
-							to complete her Occupational Therapy Doctoral degree. Cara is a lifelong learner and enjoys
-							learning new strategies/techniques to best help support clients and families.</p>
-					</div>
-				</div>
-
 				<div class="row bumper-sm">
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/bethany.jpeg" class="img-responsive" alt="Meet us" />
@@ -123,6 +106,39 @@
 							lakefront, traveling, and spending time with her friends and family.</p>
 					</div>
 				</div>
+
+				<div class="row bumper-sm">
+					<!-- <div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
+						<img src="assets/img-new/morgan.jpeg" class="img-responsive" alt="Meet us" />
+					</div> -->
+					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12 temp_sh">
+						<h2>Morgan Malone<span class="atitle"> | MOT, OTR/L</span></h2>
+						<p>Morgan graduated from Saint Louis University with her Master’s degree in Occupational
+							Therapy. She has experience working with kids of all ages and has worked in both the school,
+							clinical, and home settings. She has experience working with children with various disorders
+							including Autism, sensory processing disorder, Down syndrome, developmental delay, and
+							various neurological disorders. She enjoys collaborating with families and supporting each
+							child in helping them thrive in their everyday lives. She is a credentialed Early
+							Intervention provider through the Illinois Early Intervention Program.</p>
+					</div>
+				</div>
+
+				<div class="row bumper-sm">
+					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
+						<img src="assets/img-new/cara.jpeg" class="img-responsive" alt="Meet us" />
+					</div>
+					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
+						<h2>Cara Winters<span class="atitle"> | COTA/L</span></h2>
+						<p>Cara graduated from the University of Illinois at Chicago in 2020 with her Bachelor’s degree
+							in Rehabilitation Sciences and earned her COTA license from Fox College in 2022. Cara has a
+							passion for helping children learn through play-based activities to achieve their goals.
+							Cara has experience working in a school for children with Autism, working in home and clinic
+							settings. Cara strives to provide client-centered therapy through play, sensory exploration,
+							handwriting, fine motor skills, and gross motor skills. Cara is currently attending school
+							to complete her Occupational Therapy Doctoral degree. Cara is a lifelong learner and enjoys
+							learning new strategies/techniques to best help support clients and families.</p>
+					</div>
+				</div>
 			</div>
 
 		</div>
@@ -130,6 +146,26 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<h2 class="title"><strong>Speech-Language Pathologists</strong></h2>
+				<div class="row bumper-sm">
+					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
+						<img src="assets/img-new/lauren.jpeg" class="img-responsive" alt="Meet us" />
+					</div>
+					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
+						<h2>Lauren Latham<span class="atitle"> | MS, CCC-SLP | Lead Clinical Therapist</span></h2>
+						<p>Lauren earned her Master's degree in Speech-Language Pathology from St. Xavier University.
+							Lauren has experience working with children in the home, clinic, school, and daycare-based
+							settings. She enjoys working with young children and their families to provide
+							family-centered, individualized therapy to help meet speech and language, goals. Lauren has
+							experience working with children with various disorders including Autism Spectrum Disorder,
+							Childhood Apraxia of Speech, Sensory Processing Disorder, Down Syndrome, stuttering, and
+							various neurological disorders. In addition, Lauren is trained in the Sequential Oral
+							Sensory (SOS) Approach to feeding and utilizes the assessment and intervention strategies to
+							support children with various feeding difficulties. Lauren is a certified member of the
+							American Speech-Language-Hearing Association and is a credentialed Early Intervention
+							Provider and Evaluator through the Illinois Early Intervention Program.</p>
+					</div>
+				</div>
+
 				<div class="row bumper-sm">
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
 						<img src="assets/img-new/charlotte.jpeg" class="img-responsive" alt="Meet us" />
@@ -146,26 +182,6 @@
 							experience with patients who identify as Gestalt Language Processors. Charlotte is a
 							certified member of the American Speech-Language Hearing Association and is a credentialed
 							Early Intervention Provider through the Illinois Early Intervention Program.</p>
-					</div>
-				</div>
-
-				<div class="row bumper-sm">
-					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6 sh">
-						<img src="assets/img-new/lauren.jpeg" class="img-responsive" alt="Meet us" />
-					</div>
-					<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">
-						<h2>Lauren Latham<span class="atitle"> | MS, CCC-SLP</span></h2>
-						<p>Lauren earned her Master's degree in Speech-Language Pathology from St. Xavier University.
-							Lauren has experience working with children in the home, clinic, school, and daycare-based
-							settings. She enjoys working with young children and their families to provide
-							family-centered, individualized therapy to help meet speech and language, goals. Lauren has
-							experience working with children with various disorders including Autism Spectrum Disorder,
-							Childhood Apraxia of Speech, Sensory Processing Disorder, Down Syndrome, stuttering, and
-							various neurological disorders. In addition, Lauren is trained in the Sequential Oral
-							Sensory (SOS) Approach to feeding and utilizes the assessment and intervention strategies to
-							support children with various feeding difficulties. Lauren is a certified member of the
-							American Speech-Language-Hearing Association and is a credentialed Early Intervention
-							Provider and Evaluator through the Illinois Early Intervention Program.</p>
 					</div>
 				</div>
 

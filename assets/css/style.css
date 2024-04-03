@@ -84,9 +84,8 @@ p {
 	}
 }
 
-
 .bumper-sm {
-	margin-top:40px;
+	margin-top: 20px;
 }
 
 .bumper-md {
@@ -115,7 +114,10 @@ p {
 
 .logo {
 	margin-top:20px;
+	margin-bottom: 10px;
 	max-width:350px;
+	display: block !important;
+	width: 100% !important;
 }
 
 .additional-links {

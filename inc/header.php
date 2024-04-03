@@ -47,8 +47,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-					<a href="index.php"><img src="assets/img/kotg-logo.gif" alt="Kids on the Grow"
-							class="img-responsive logo" /></a>
+					<a href="index.php"><img src="assets/img-new/kotg-logo.png" alt="Kids on the Grow"
+							class="logo" /></a>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-7 col-xs-12">
 					<div class="additional-links">
